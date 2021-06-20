@@ -1,0 +1,13 @@
+name: XpEnchants
+version: ${project.version}
+main: com.mercator.xpenchants.XpEnchants
+api-version: 1.17
+prefix: XPE
+authors: [ ProPane865 ]
+description: A plugin that allows you to craft higher level enchantments using experience and existing enchantments
+website: mercatorearth.netlify.app
+
+commands:
+  enchantupgrade:
+    description: Allows you to upgrade your enchants past level 5!
+    usage: /enchantupgrade <enchantname>
